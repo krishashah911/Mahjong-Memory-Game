@@ -1,0 +1,64 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+  background-color: #efe7bc;
+  color: #e7e7e7;
+  margin: 0 auto;
+  padding: 1em 2em;
+  color: white;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+  margin: 0.4em 0;
+  line-height: 1.2;
+}
+
+h4 {
+  margin: 0.2em 0;
+  line-height: 1.2;
+  letter-spacing: 0em;
+  font-size: 0.9em;
+  margin: 2em 0 0.5em;
+  color: #c82333;
+}
+
+h1 {
+  font-size: 2.2em;
+  color: #c82333;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #c82333;
+}
+
+h3 {
+  font-size: 1.1em;
+  margin: 2em 0 1em;
+  font-weight: 100;
+  color: #c82333;
+}
+
+p {
+  margin: 1.5em 0;
+  line-height: 1.4;
+  letter-spacing: -0.05em;
+  text-align: justify;
+}
+
+ul {
+  margin: 1em 2em;
+  padding: 0;
+}
+
+ul li {
+  margin: 0;
+  padding: 0.125em 0;
+  color: rgb(224, 242, 255);
+}
+
+ul li ul {
+  margin: 0.25em 1.25em;
+}
